@@ -1,16 +1,14 @@
 # Ravenous
 
-Ravenous is supposed to be a website that is a clone of Yelp.com. Users would be able to leave/read reviews on different restaurants and businesses. The app was designed with the following technologies:
+Ravenous is supposed to be a website that is a clone of Yelp.com. However, the only places that appear on the application are pizza places. This project was completed for codecademy's "Build Web Apps with React" skill path/course. The app was designed with the following technologies:
 
 - HTML5
 - CSS3 
 - Javascript
 - React
+- Yelp API
 
 Below are instructions on how to run this application, and other React applications on your local machine.
-
-*Please note that this is an unfinished project that I plan to make changes to daily until it is finished
-
 
 # Getting Started with Create React App
 
